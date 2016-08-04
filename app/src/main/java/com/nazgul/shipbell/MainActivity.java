@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity  {
     public static long interval = 0;
     public static long inTime = 0;
     static long deltaTime = 0;
+    static long deltaTime1 = 0;
 
 
 
